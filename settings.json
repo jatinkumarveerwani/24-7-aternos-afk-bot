@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LuminousSMPS01.aternos.me",
-    "port": 30195,
+    "ip": "lordzinx.aternos.me",
+    "port": 63868,
     "version": "1.20.1",
     "try-creative": false
   },
