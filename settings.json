@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "illuminiousSMP.aternos.me",
-    "port": 63868,
+    "ip": "HardcoreSMP-4th.aternos.me",
+    "port": 37783,
     "version": "1.20.1",
     "try-creative": false
   },
